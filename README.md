@@ -1,4 +1,10 @@
+# How to use
 
+1. Navigate to : Login => menu => dashbord => general => custom css
+2. Copy paste the desired theme
+3. Save et reload the page
+
+# Themes
 ## jellyfin-themes
 jellyfin's theme for ease of access
 ```css
