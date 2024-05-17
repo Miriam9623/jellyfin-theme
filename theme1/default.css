@@ -1,4 +1,14 @@
 @import url("https://cdn.jsdelivr.net/gh/prayag17/Jellyfin-Icons/round.css");
+
+/*Variables*/
+
+:root {
+  --deftraback: rgba(229, 9, 20, 0.2) !important;
+  --rounding: 3px;
+  --accent: #00a4dc;
+}
+
+
 /*Background Image on Login Page*/
 #loginPage {
   background: url('https://i.ytimg.com/vi/avCWDDox1nE/maxresdefault.jpg');
