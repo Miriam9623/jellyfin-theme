@@ -68,7 +68,7 @@ https://github.com/DevilsDesigns/Jellyfin-DarkFlix-Theme
 ```css
 @import url("https://cdn.jsdelivr.net/gh/DevilsDesigns/Jellyfin-DarkFlix-Theme/Darkflix-v5.1.css");
 ```
-https://github.com/mbcooper83/jellyfin-css-darkandgreen?tab=readme-ov-file
+https://github.com/mbcooper83/jellyfin-css-darkandgreen
 ```css
 @import url("https://bit.ly/3py1dlM");
 ```
