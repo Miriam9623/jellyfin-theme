@@ -1,8 +1,16 @@
 # How to use
 
+For the server
 1. Navigate to : Login => menu => dashbord => general => custom css
-2. Copy paste the desired theme
+2. Copy paste the desired theme in "Custom CSS code"
 3. Save et reload the page
+
+For the user
+1. Navigate to : Login => menu => settings => display => custom css
+2. you may want to check "Disable server-provided custom CSS code"
+3. Copy paste the desired theme in "Custom CSS code"
+4. Save et reload the page
+
 
 # Themes
 ## jellyfin-themes
